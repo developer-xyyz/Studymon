@@ -1,4 +1,4 @@
-## Studymon
+## Studymon (last updated December, 2021)
 A simple program to help study using flashcards.
 
 ## Features
@@ -10,3 +10,16 @@ A simple program to help study using flashcards.
 3. Personal Pokemons -
   *At the beginning of the game, the users are required to select their partner, who they will be taking care of by aceing their study contents*
   
+## Program Showcase
+
+![](Studymon/ss1.png)
+
+![](Studymon/ss2.png)
+
+![](Studymon/ss3.png)
+
+![](Studymon/ss4.png)
+
+![](Studymon/ss5.png)
+
+![](Studymon/ss6.png)
