@@ -1,4 +1,4 @@
-## Studymon (last updated December, 2021)
+# Studymon (last updated December, 2021)
 A simple program to help study using flashcards.
 
 ## Features
